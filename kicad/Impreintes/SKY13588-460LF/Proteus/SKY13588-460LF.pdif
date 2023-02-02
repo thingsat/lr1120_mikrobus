@@ -1,0 +1,177 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SKY13588-460LF"
+   (description "RF Switch ICs .1-6GHz SP3T IL .45dB -40C +105C")
+   (family "ANA")
+   (package "QFN50P200X200X65-13N-D")
+   (attribute "Datasheet Link" "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/2201-2300/SKY13588_460LF_203512D.pdf")
+   (attribute "Geometry.Height" "0.65mm")
+   (attribute "Mouser Part Number" "873-SKY13588-460LF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY13588-460LF?qs=Xy3FNZO%2FEu8q7ADFn9Z8ag%3D%3D")
+   (attribute "Manufacturer_Name" "Skyworks")
+   (attribute "Manufacturer_Part_Number" "SKY13588-460LF")
+   (gate
+    (symbol "SKY13588-460LF")
+    (pin "J1" 1 PS)
+    (pin "GND_1" 2 PS)
+    (pin "J3" 3 PS)
+    (pin "V1" 4 PS)
+    (pin "V2" 5 PS)
+    (pin "VDD" 6 PS)
+    (pin "J2" 9 PS)
+    (pin "GND_3" 8 PS)
+    (pin "GND_2" 7 PS)
+    (pin "EP" 13 PS)
+    (pin "GND_5" 12 PS)
+    (pin "RFC" 11 PS)
+    (pin "GND_4" 10 PS)
+   )
+  )
+  (symbol "SKY13588-460LF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 500) (pt 1000 500) (pt 1000 -600) (pt 200 -600) (pt 200 500) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 700) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 700) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 700) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 700) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "QFN50P200X200X65-13N-D"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.625 1.625)
+      (pt 1.625 1.625)
+      (pt 1.625 -1.625)
+      (pt -1.625 -1.625)
+      (pt -1.625 1.625))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 1)
+      (pt 1 1)
+      (pt 1 -1)
+      (pt -1 -1)
+      (pt -1 1))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1 0.5)
+      (pt -0.5 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.25)
+     (circle
+      (pt -1.25 1.25) (pt -1.5 1.25)
+     )
+    )
+   )
+   (leg 1 (pt -1 0.5) (padstack 0))
+   (leg 2 (pt -1 0) (padstack 0))
+   (leg 3 (pt -1 -0.5) (padstack 0))
+   (leg 4 (pt -0.5 -1) (padstack 1))
+   (leg 5 (pt 0 -1) (padstack 1))
+   (leg 6 (pt 0.5 -1) (padstack 1))
+   (leg 7 (pt 1 -0.5) (padstack 2))
+   (leg 8 (pt 1 0) (padstack 2))
+   (leg 9 (pt 1 0.5) (padstack 2))
+   (leg 10 (pt 0.5 1) (padstack 3))
+   (leg 11 (pt 0 1) (padstack 3))
+   (leg 12 (pt -0.5 1) (padstack 3))
+   (leg 13 (pt 0 0) (padstack 13))
+   (padstack 0
+    (pad (layer TCOP) (path (pt -0.375 0.125) (arc (pt 0.25 0.125) (pt 0.125 -0.125) (pt 0.375 0.125) (start -180) (sweep 90)) (pt 0.25 -0.125) (pt -0.375 -0.125) (pt -0.375 0.125)))
+   )
+   (padstack 1
+    (pad (layer TCOP) (path (pt -0.125 -0.375) (arc (pt -0.125 0.25) (pt -0.125 0.125) (pt 0.125 0.375) (start -180) (sweep 180)) (pt 0.125 0.25) (pt 0.125 -0.375) (pt -0.125 -0.375)))
+   )
+   (padstack 2
+    (pad (layer TCOP) (path (pt 0.375 -0.125) (arc (pt -0.25 -0.125) (pt -0.375 -0.125) (pt -0.125 0.125) (start -180) (sweep 270)) (pt -0.25 0.125) (pt 0.375 0.125) (pt 0.375 -0.125)))
+   )
+   (padstack 3
+    (pad (layer TCOP) (path (pt 0.125 0.375) (arc (pt 0.125 -0.25) (pt -0.125 -0.375) (pt 0.125 -0.125) (start -180) (sweep 0)) (pt -0.125 -0.25) (pt -0.125 0.375) (pt 0.125 0.375)))
+   )
+   (padstack 13
+    (plated false)
+    (pad (layer TCOP) (rectf 0.86 0.86 0 0 90))
+   )
+   (model "SKY13588-460LF.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

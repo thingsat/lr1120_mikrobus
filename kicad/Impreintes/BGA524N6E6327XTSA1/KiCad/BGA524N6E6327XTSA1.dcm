@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BGA524N6E6327XTSA1
+D INFINEON - BGA524N6E6327XTSA1 - LNA, 19.6DB, 1.55GHZ-1.615GHZ, TSNP-6
+K
+F https://www.infineon.com/dgdl/Infineon-BGA524N6-DS-v03_00-en.pdf?fileId=db3a304344e406b50144e44dfad302b9
+$ENDCMP
+#
+#End Doc Library

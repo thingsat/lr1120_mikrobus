@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY13588-460LF
+D RF Switch ICs .1-6GHz SP3T IL .45dB -40C +105C
+K
+F https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/2201-2300/SKY13588_460LF_203512D.pdf
+$ENDCMP
+#
+#End Doc Library

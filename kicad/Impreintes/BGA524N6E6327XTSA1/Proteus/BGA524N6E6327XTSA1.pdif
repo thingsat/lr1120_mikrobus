@@ -1,0 +1,117 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BGA524N6E6327XTSA1"
+   (description "INFINEON - BGA524N6E6327XTSA1 - LNA, 19.6DB, 1.55GHZ-1.615GHZ, TSNP-6")
+   (family "ANA")
+   (package "BGS12SN6E6327XTSA1")
+   (attribute "Datasheet Link" "https://www.infineon.com/dgdl/Infineon-BGA524N6-DS-v03_00-en.pdf?fileId=db3a304344e406b50144e44dfad302b9")
+   (attribute "Mouser Part Number" "726-A524N6E6327XTSA1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BGA524N6E6327XTSA1?qs=dZoB6MK9LKODRML%252BhnhJcg%3D%3D")
+   (attribute "Manufacturer_Name" "Infineon")
+   (attribute "Manufacturer_Part_Number" "BGA524N6E6327XTSA1")
+   (gate
+    (symbol "BGA524N6E6327XTSA1")
+    (pin "GND_1" 1 PS)
+    (pin "VCC" 2 PS)
+    (pin "AO" 3 PS)
+    (pin "GND_2" 4 PS)
+    (pin "AI" 5 PS)
+    (pin "PON" 6 PS)
+   )
+  )
+  (symbol "BGA524N6E6327XTSA1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BGS12SN6E6327XTSA1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.175 0.5)
+      (pt 0.525 0.5)
+      (pt 0.525 -0.5)
+      (pt -0.175 -0.5)
+      (pt -0.175 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.225 1.225)
+      (pt 1.225 1.225)
+      (pt 1.225 -1.225)
+      (pt -1.225 -1.225)
+      (pt -1.225 1.225))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.425 0.4)
+      (arc (pt -0.425 0.400) (pt -0.525 0.350) (pt -0.425 0.450) (start -180.0) (sweep .0))
+      (pt -0.525 0.4)
+      (arc (pt -0.525 0.400) (pt -0.525 0.350) (pt -0.425 0.450) (start -180.0) (sweep 180.0))
+      (pt -0.425 0.4))))
+   (leg 1 (pt -0.025 0.400) (padstack 0))
+   (leg 2 (pt -0.025 0.000) (padstack 0))
+   (leg 3 (pt -0.025 -0.400) (padstack 0))
+   (leg 4 (pt 0.375 -0.400) (padstack 0))
+   (leg 5 (pt 0.375 0.000) (padstack 0))
+   (leg 6 (pt 0.375 0.400) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 0.25))
+   )
+   (model "BGA524N6E6327XTSA1.stp"
+    (euler 0 0 0)
+    (offset 170.4600067138672 -24.739999771118164 -72.83000183105469)
+   )
+  )
+ )
+)

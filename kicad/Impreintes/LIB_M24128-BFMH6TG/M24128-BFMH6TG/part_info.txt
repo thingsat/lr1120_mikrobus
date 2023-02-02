@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=M24128-BFMH6TG
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=5
+Version=1.4
+Released=2020-09-30 14:27:04
+Downloaded=2022-12-08 10:10:16
+3D=Y

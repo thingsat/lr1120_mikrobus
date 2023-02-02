@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BGA524N6E6327XTSA1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Infineon", "BGA524N6E6327XTSA1" (!) = "", "BGS12SN6E6327XTSA1", "Other", "726-A524N6E6327XTSA1", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BGA524N6E6327XTSA1?qs=dZoB6MK9LKODRML%252BhnhJcg%3D%3D", "INFINEON - BGA524N6E6327XTSA1 - LNA, 19.6DB, 1.55GHZ-1.615GHZ, TSNP-6", "https://www.infineon.com/dgdl/Infineon-BGA524N6-DS-v03_00-en.pdf?fileId=db3a304344e406b50144e44dfad302b9"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "M24128-BFMH6TG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-30-14:27:04)
+    (mountForm default
+        (footprintRef "M24128BFMH6TG")
+        (spec "System")
+    )
+)

@@ -1,0 +1,16 @@
+.SKY13588-460LF :1 ;RF Switch ICs .1-6GHz SP3T IL .45dB -40C +105C
+QFN50P200X200X65-13N-D
+*STM IC
+*NGS
+*PLB 1="J1" 2="GND_1" 3="J3" 4="V1" 5="V2" 6="VDD" 7="GND_2" 8="GND_3" 9="J2" 10="GND_4" 11="RFC" 12="GND_5" 13="EP"
+*MXP 13
+*DFN SKY13588-460LF
+~!Mouser Part Number (873-SKY13588-460LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY13588-460LF?qs=Xy3FNZO%2FEu8q7ADFn9Z8ag%3D%3D)
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SKY13588-460LF)
+~!Link Datasheet (https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/2201-2300/SKY13588_460LF_203512D.pdf)
+~!Height (0.65mm)
+~!3D_Model (SKY13588-460LF)
+SKY13588-460LF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 9.1!U 8.1!U 7.1!U 13.1!U 12.1!U 11.1!U 10.1!U 

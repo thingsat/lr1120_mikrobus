@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=BGA524N6E6327XTSA1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=6
+Version=1.5
+Released=2019-11-07 17:30:39
+Downloaded=2023-01-26 09:50:50
+3D=Y

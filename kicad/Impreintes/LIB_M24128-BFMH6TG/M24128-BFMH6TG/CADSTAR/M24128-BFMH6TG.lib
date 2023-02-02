@@ -1,0 +1,16 @@
+.M24128-BFMH6TG :1 ;STMICROELECTRONICS - M24128-BFMH6TG - EEPROM, 128 Kbit, 16K x 8bit, Serial I2C (2-Wire), 1 MHz, UFDFPN, 5 Pins
+M24128BFMH6TG
+*STM IC
+*NGS
+*PLB 1="VCC" 2="VSS" 3="SDA" 4="SCL" 5="'WC'"
+*MXP 5
+*DFN M24128-BFMH6TG
+~!Mouser Part Number (511-M24128-BFMH6TG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/M24128-BFMH6TG?qs=lGsJEpdjMw0B2vowlJSYsg%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (M24128-BFMH6TG)
+~!Link Datasheet (http://www.st.com/content/ccc/resource/technical/document/datasheet/59/05/c9/5b/7b/41/48/b6/CD00259167.pdf/files/CD00259167.pdf/jcr:content/translations/en.CD00259167.pdf)
+~!Height (0.6mm)
+~!3D_Model (M24128-BFMH6TG)
+M24128-BFMH6TG
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
