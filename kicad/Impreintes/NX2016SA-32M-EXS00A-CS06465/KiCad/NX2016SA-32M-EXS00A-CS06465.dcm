@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX2016SA-32M-EXS00A-CS06465
+D CRYSTAL 32MHZ 10PF SMD
+K
+F http://www.ndk.com/images/products/catalog/c_NX2016SA_e.pdf
+$ENDCMP
+#
+#End Doc Library

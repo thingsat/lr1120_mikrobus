@@ -1,0 +1,16 @@
+.NX2016SA-32M-EXS00A-CS06465 :1 ;CRYSTAL 32MHZ 10PF SMD
+NX2016SA32MEXS00ACS06465
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="CRYSTAL_2" 4="GND_2"
+*MXP 4
+*DFN NX2016SA-32M-EXS00A-CS06465
+~!Mouser Part Number (344-NX2016SA32S06465)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NDK/NX2016SA-32M-EXS00A-CS06465?qs=w%2Fv1CP2dgqr82b0JjRnv4A%3D%3D)
+~!Manufacturer_Name (NDK)
+~!Manufacturer_Part_Number (NX2016SA-32M-EXS00A-CS06465)
+~!Link Datasheet (http://www.ndk.com/images/products/catalog/c_NX2016SA_e.pdf)
+~!Height (0.5mm)
+~!3D_Model (NX2016SA-32M-EXS00A-CS06465)
+NX2016SA-32M-EXS00A-CS06465
+1.1!U 2.1!U 3.1!U 4.1!U 

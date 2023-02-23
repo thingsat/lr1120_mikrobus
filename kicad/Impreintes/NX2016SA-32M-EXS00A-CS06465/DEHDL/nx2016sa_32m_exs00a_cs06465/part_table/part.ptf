@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NX2016SA_32M_EXS00A_CS06465'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NDK", "NX2016SA-32M-EXS00A-CS06465" (!) = "", "NX2016SA32MEXS00ACS06465", "Other", "344-NX2016SA32S06465", "https://www.mouser.co.uk/ProductDetail/NDK/NX2016SA-32M-EXS00A-CS06465?qs=w%2Fv1CP2dgqr82b0JjRnv4A%3D%3D", "CRYSTAL 32MHZ 10PF SMD", "http://www.ndk.com/images/products/catalog/c_NX2016SA_e.pdf", "0.5 mm"
+END_PART
+
+END.
