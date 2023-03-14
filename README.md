@@ -1,6 +1,7 @@
 # Semtech LR1120 Mikrobus Board
 
-## TODOLIST
-* [ ] define the size of the board according to the Mikrobus specifications.
+This project is being developed at the Université Grenoble-Alpes by Dante Regiani Freitas. The objective is to adapt the Semtech LR1120 board to the Mikrobus format. 
+
+It will be done by April 5th.
 
 
