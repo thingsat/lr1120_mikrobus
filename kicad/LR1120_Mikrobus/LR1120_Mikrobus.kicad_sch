@@ -3225,7 +3225,7 @@
     (in_bom yes) (on_board yes)
     (uuid 5f55865b-0b6e-4cb8-a110-73d5d0793886)
     (property "Reference" "C16" (id 0) (at 40.64 60.96 0))
-    (property "Value" "0.5pF" (id 1) (at 40.64 55.88 0))
+    (property "Value" "NC" (id 1) (at 40.64 55.88 0))
     (property "Footprint" "Capacitor_SMD:C_01005_0402Metric" (id 2) (at 45.4152 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3485,7 +3485,7 @@
     (in_bom yes) (on_board yes)
     (uuid 7d8c6ac7-884e-467c-8d84-eaa4ae7d9f63)
     (property "Reference" "C14" (id 0) (at 57.15 60.96 0))
-    (property "Value" "0.5pF" (id 1) (at 57.15 55.88 0))
+    (property "Value" "6.8pF" (id 1) (at 57.15 55.88 0))
     (property "Footprint" "Capacitor_SMD:C_01005_0402Metric" (id 2) (at 61.9252 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4246,7 +4246,7 @@
     (property "Reference" "C52" (id 0) (at 242.57 130.8099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (id 1) (at 242.57 133.3499 0)
+    (property "Value" "NC" (id 1) (at 242.57 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 239.7252 135.89 0)
@@ -4347,7 +4347,7 @@
     (in_bom yes) (on_board yes)
     (uuid e5a7a84f-0122-4ef6-8f51-3ec88e85c1a3)
     (property "Reference" "C20" (id 0) (at 148.59 49.53 90))
-    (property "Value" "0.5pF" (id 1) (at 153.67 49.53 90))
+    (property "Value" "NC" (id 1) (at 153.67 49.53 90))
     (property "Footprint" "Capacitor_SMD:C_01005_0402Metric" (id 2) (at 147.32 54.3052 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4486,8 +4486,8 @@
     (in_bom yes) (on_board yes)
     (uuid fb1ca6ca-8829-4aae-bc71-533e48473938)
     (property "Reference" "R31" (id 0) (at 275.59 140.97 0))
-    (property "Value" "R" (id 1) (at 281.94 137.16 0))
-    (property "Footprint" "" (id 2) (at 281.178 137.16 90)
+    (property "Value" "NC" (id 1) (at 281.94 137.16 0))
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (id 2) (at 281.178 137.16 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 279.4 137.16 0)
@@ -4607,7 +4607,7 @@
     (in_bom yes) (on_board yes)
     (uuid ff7778df-5093-417b-82dd-c475f5c81cdc)
     (property "Reference" "C11" (id 0) (at 40.64 83.82 0))
-    (property "Value" "0.5pF" (id 1) (at 40.64 78.74 0))
+    (property "Value" "NC" (id 1) (at 40.64 78.74 0))
     (property "Footprint" "Capacitor_SMD:C_01005_0402Metric" (id 2) (at 45.4152 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4801,7 +4801,7 @@
       (reference "C10") (unit 1) (value "12pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/ff7778df-5093-417b-82dd-c475f5c81cdc"
-      (reference "C11") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
+      (reference "C11") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/0d87a121-a86b-4749-8c7b-4b6deea2ee47"
       (reference "C12") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
@@ -4810,13 +4810,13 @@
       (reference "C13") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/7d8c6ac7-884e-467c-8d84-eaa4ae7d9f63"
-      (reference "C14") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
+      (reference "C14") (unit 1) (value "6.8pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/bc4dd6e4-4df9-4089-8b74-6267bfdb1080"
       (reference "C15") (unit 1) (value "12pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/5f55865b-0b6e-4cb8-a110-73d5d0793886"
-      (reference "C16") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
+      (reference "C16") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/4fee6e29-04f6-4d2b-8028-17eb5dd0c81c"
       (reference "C17") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
@@ -4828,7 +4828,7 @@
       (reference "C19") (unit 1) (value "1.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/e5a7a84f-0122-4ef6-8f51-3ec88e85c1a3"
-      (reference "C20") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
+      (reference "C20") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/7355a802-4b21-400b-899d-c0d47a30cceb"
       (reference "C21") (unit 1) (value "12pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
@@ -4891,7 +4891,7 @@
       (reference "C50") (unit 1) (value "1pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/dbb15a35-644e-4998-9510-39d4f76d0325"
-      (reference "C52") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C52") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/20924966-d251-4062-bd99-6a0a4e9003bc"
       (reference "C53") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_01005_0402Metric")
@@ -4990,7 +4990,7 @@
       (reference "R18") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/fb1ca6ca-8829-4aae-bc71-533e48473938"
-      (reference "R31") (unit 1) (value "R") (footprint "")
+      (reference "R31") (unit 1) (value "NC") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/8fb65162-9ef8-4227-8868-d2903778e217"
       (reference "R32") (unit 1) (value "NC") (footprint "Resistor_SMD:R_0201_0603Metric")
