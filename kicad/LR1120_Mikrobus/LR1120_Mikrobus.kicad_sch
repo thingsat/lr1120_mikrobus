@@ -3485,7 +3485,7 @@
     (in_bom yes) (on_board yes)
     (uuid 7d8c6ac7-884e-467c-8d84-eaa4ae7d9f63)
     (property "Reference" "C14" (id 0) (at 57.15 60.96 0))
-    (property "Value" "0.5pF" (id 1) (at 57.15 55.88 0))
+    (property "Value" "6.8pF" (id 1) (at 57.15 55.88 0))
     (property "Footprint" "Capacitor_SMD:C_01005_0402Metric" (id 2) (at 61.9252 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4810,7 +4810,7 @@
       (reference "C13") (unit 1) (value "NC") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/7d8c6ac7-884e-467c-8d84-eaa4ae7d9f63"
-      (reference "C14") (unit 1) (value "0.5pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
+      (reference "C14") (unit 1) (value "6.8pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
     )
     (path "/bc4dd6e4-4df9-4089-8b74-6267bfdb1080"
       (reference "C15") (unit 1) (value "12pF") (footprint "Capacitor_SMD:C_01005_0402Metric")
