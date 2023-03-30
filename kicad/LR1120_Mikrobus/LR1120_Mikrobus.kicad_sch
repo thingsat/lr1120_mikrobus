@@ -4176,7 +4176,7 @@
     (property "Value" "NC" (id 1) (at 312.42 213.9695 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 307.848 212.6996 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (id 2) (at 307.848 212.6996 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 309.626 212.6996 0)
@@ -5534,7 +5534,7 @@
       (reference "R10") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/9a502a54-b95a-4145-b7b6-90757806098f"
-      (reference "R13") (unit 1) (value "NC") (footprint "")
+      (reference "R13") (unit 1) (value "NC") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/9c0cad7c-1634-4e6a-beb7-e9016b86f636"
       (reference "R14") (unit 1) (value "330") (footprint "")
