@@ -9,3 +9,6 @@ The objective is to adapt the [Semtech LR1120 `LR1120MB1DIS` eval board (868 MHz
 
 ## Firmware
 * [Tutorial on LR11120](https://github.com/CampusIoT/tutorial/tree/master/lr1120)
+
+## Media
+![LR1120MB1DIS](https://raw.githubusercontent.com/CampusIoT/tutorial/master/lr1120/LR1120MB1DIS.jpg)
