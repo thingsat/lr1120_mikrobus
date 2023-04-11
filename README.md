@@ -7,9 +7,11 @@ The objective of this student homework is to adapt the [Semtech LR1120 `LR1120MB
 This project is being developed at [Polytech Grenoble](https://www.polytech-grenoble.fr/) and [CSUG](https://www.csug.fr/) ([Université Grenoble-Alpes](https://www.univ-grenoble-alpes.fr/)) by Dante Regiani Freitas and supervised by Prof. Didier Donsez.
 
 ## Hardware
+* [Schematic](images/schematic.pdf)
 * [Kicad design](./kicad)
-![pcb_top_copper](https://user-images.githubusercontent.com/51835706/230894880-bf751af6-da74-4b31-8c00-46cbe03bcfe0.PNG)
-![schematic](https://user-images.githubusercontent.com/51835706/230894881-3f2df8cd-bdbe-4238-84f8-f28805b002b1.PNG)
+
+![pcb_top_copper](images/pcb_top_copper.PNG)
+![schematic](images/schematic.PNG)
 
 ## Firmware
 * [Tutorial on LR11120](https://github.com/CampusIoT/tutorial/tree/master/lr1120)
