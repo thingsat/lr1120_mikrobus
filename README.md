@@ -11,7 +11,7 @@ This project is being developed at [Polytech Grenoble](https://www.polytech-gren
 * [Kicad design](./kicad)
 
 ![pcb_top_copper](images/pcb_top_copper.PNG)
-![schematic](images/schematic.PNG)
+![Mikrobus LR1120 schematic](images/mikrobus_lr1120_schematic.png)
 
 ## Firmware
 * [Tutorial on LR11120](https://github.com/CampusIoT/tutorial/tree/master/lr1120)
