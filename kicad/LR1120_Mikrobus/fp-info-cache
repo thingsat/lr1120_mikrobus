@@ -1,4 +1,4 @@
-20532158927783674
+20538359272275129
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57907,6 +57907,34 @@ MIKROBUS
 MIKROE924
 MIKROE-924-2
 Integrated Circuit
+0
+16
+16
+Mikrobus
+MIKROBUS_HOST_CONN
+
+mikrobus
+0
+16
+16
+Mikrobus
+MIKROBUS_LOGO
+
+mikrobus
+0
+0
+0
+Mikrobus
+MIKROBUS_LOGO_TEXT
+
+
+0
+0
+0
+Mikrobus
+MIKROBUS_MODULE_CONN
+
+mikrobus
 0
 16
 16
